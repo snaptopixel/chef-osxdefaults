@@ -1,1 +1,1 @@
-node.default['osxdefaults']['terminal']['profile'] = "TomorrowNightEighties"
+node.default['osxdefaults']['terminal']['profile'] = "Smyck"
