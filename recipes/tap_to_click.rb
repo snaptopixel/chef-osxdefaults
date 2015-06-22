@@ -18,5 +18,4 @@ end
 osxdefaults_defaults "Tap to click 4/4" do
   domain 'com.apple.AppleMultitouchTrackpad'
   key 'Clicking'
-  integer 1
-}
+end
