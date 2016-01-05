@@ -1,1 +1,1 @@
-node.default['osxdefaults']['terminal']['profile'] = "Smyck"
+node.default['osxdefaults']['terminal']['profile'] = "material-theme"
